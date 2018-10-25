@@ -6,15 +6,15 @@ Do not allocate extra space for another array, you must do this by __modifying t
 ### Example 1:
 
 ```
-Given *nums* = __[1,1,2]__,
-Your function should return length = <code>2</code>, with the first two elements of <code>*nums*</code> being <code>__1__</code> and <code>__2__</code> respectively.
+Given nums = [1,1,2],
+Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively.
 
 It doesn't matter what you leave beyond the returned length.
 ```
 ### Example 2:
 ```
-Given *nums* = __[0,0,1,1,1,2,2,3,3,4]__,
-Your function should return length = <code>__5__</code>, with the first five elements of <code>*nums*</code> being modified to <code>__0__</code>, <code>__1__</code>, <code>__2__</code>, <code>__3__</code>, and <code>__4__</code> respectively.
+Given nums =[0,0,1,1,1,2,2,3,3,4],
+Your function should return length =5, with the first five elements of nums being modified to 0, 1, 2, 3, and 4 respectively.
 
 ```
 ### Clarification:
@@ -26,10 +26,10 @@ Note that the input array is passed in by __reference__, which means modificatio
 Internally you can think of this:
 
 ```
-// __nums__ is passed in by reference. (i.e., without making a copy)
+// nums is passed in by reference. (i.e., without making a copy)
 int len = removeDuplicates(nums);
 // any modification to nums in your function would be known by the caller.
-// using the length returned by your function, it prints the first __len__ elements.
+// using the length returned by your function, it prints the first len elements.
 for (int i = 0; i < len; i++) {
     print(nums[i]);
 }
@@ -42,17 +42,17 @@ for (int i = 0; i < len; i++) {
 
 ### 示例 1:
 ```
-给定数组 *nums* = __[1,1,2]__, 
+给定数组 nums = [1,1,2], 
 
-函数应该返回新的长度 <code>2</code>, 并且原数组 <code>*nums*</code> 的前两个元素被修改为 <code>__1__</code>, <code>__2__</code>。 
+函数应该返回新的长度 2, 并且原数组 nums 的前两个元素被修改为 1, 2。 
 
 你不需要考虑数组中超出新长度后面的元素。
 ```
 ### 示例 2:
 ```
-给定 *nums* = __[0,0,1,1,1,2,2,3,3,4]__,
+给定 nums = [0,0,1,1,1,2,2,3,3,4],
 
-函数应该返回新的长度 <code>__5__</code>, 并且原数组 <code>*nums*</code> 的前五个元素被修改为 <code>__0__</code>, <code>__1__</code>, <code>__2__</code>, <code>__3__</code>, <code>__4__</code>。
+函数应该返回新的长度 5, 并且原数组 nums 的前五个元素被修改为 0, 1, 2, 3, 4。
 
 你不需要考虑数组中超出新长度后面的元素。
 ```
@@ -64,7 +64,7 @@ for (int i = 0; i < len; i++) {
 
 你可以想象内部操作如下:
 ```
-// __nums__ 是以“引用”方式传递的。也就是说，不对实参做任何拷贝
+// nums 是以“引用”方式传递的。也就是说，不对实参做任何拷贝
 int len = removeDuplicates(nums);
 
 // 在函数里修改输入数组对于调用者是可见的。

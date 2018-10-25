@@ -9,4 +9,4 @@ LeetCode solutions in C++, Java and Javascript.
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr) | [C++](./algorithms/028ImplementStrStr/ImplementStrStr.cpp)|Easy|
 |038|[Count And Say](https://leetcode.com/problems/count-and-say) | [C++](./algorithms/038CountAndSay/CountAndSay.cpp)|Easy|
 |053|[Maxinmum Subarray](https://leetcode.com/problems/maximum-subarray) | [C++](./algorithms/053MaximumSubarray/MaximumSubarray.cpp)|Easy|
-|067|[Add Binary](https://leetcode.com/problems/add-binary) | [C++](./algorithms/053AddBinary/AddBinary.cpp)|Easy|
+|067|[Add Binary](https://leetcode.com/problems/add-binary) | [C++](./algorithms/067AddBinary/AddBinary.cpp)|Easy|
