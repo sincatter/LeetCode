@@ -14,4 +14,4 @@ LeetCode solutions in C++, Java and Javascript.
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/070ClimbingStairs/ClimbingStairs.cpp)|Easy|
 |083|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./algorithms/083RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.cpp)|Easy|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [C++](./algorithms/088MergeSortedArray/MergeSortedArray.cpp)|Easy|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./algorithms/100SameTree/100SameTree.cpp)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./algorithms/100SameTree/SameTree.cpp)|Easy|
