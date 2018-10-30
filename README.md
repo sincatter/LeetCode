@@ -13,3 +13,4 @@ LeetCode solutions in C++, Java and Javascript.
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./algorithms/069Sqrt(x)/Sqrt(x).cpp)|Easy|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/070ClimbingStairs/ClimbingStairs.cpp)|Easy|
 |083|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./algorithms/083RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.cpp)|Easy|
+|088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [C++](./algorithms/088MergeSortedArray/MergeSortedArray.cpp)|Easy|

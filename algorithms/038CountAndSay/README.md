@@ -1,4 +1,4 @@
-## Introduction
+## Count And Say
 The count-and-say sequence is the sequence of integers with the first five terms as following:
 1. 1
 2. 11
@@ -17,7 +17,7 @@ __Output:__ "1"
 ### Example 2:
 __Input:__ 4  
 __Output:__ "1211"  
-## 介绍
+## 报数
 报数序列是一个整数序列，按照其中的整数的顺序进行报数，得到下一个数。其前五项如下：  
 1. 1
 2. 11
