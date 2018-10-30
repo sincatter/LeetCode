@@ -16,3 +16,4 @@ LeetCode solutions in C++, Java and Javascript.
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [C++](./algorithms/088MergeSortedArray/MergeSortedArray.cpp)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./algorithms/100SameTree/SameTree.cpp)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./algorithms/101SymmetricTree/SymmetricTree.cpp)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./algorithms/104MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.cpp)|Easy|
