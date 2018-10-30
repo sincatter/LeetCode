@@ -15,3 +15,4 @@ LeetCode solutions in C++, Java and Javascript.
 |083|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./algorithms/083RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.cpp)|Easy|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [C++](./algorithms/088MergeSortedArray/MergeSortedArray.cpp)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./algorithms/100SameTree/SameTree.cpp)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./algorithms/101SymmetricTree/SymmetricTree.cpp)|Easy|
