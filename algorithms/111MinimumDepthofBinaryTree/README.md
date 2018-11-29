@@ -11,7 +11,7 @@ Given binary tree [3,9,20,null,null,15,7],
     /  \
    15   7
 ```
-return its minimum depth = 2.  
+return its minimum depth = 2.   
 
 ## 二叉树的最小深度
 给定一个二叉树，找出其最小深度。  
