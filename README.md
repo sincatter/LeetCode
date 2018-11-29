@@ -18,4 +18,5 @@ LeetCode solutions in C++, Java and Javascript.
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./algorithms/101SymmetricTree/SymmetricTree.cpp)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./algorithms/104MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.cpp)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | [C++](./algorithms/104BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.cpp)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./algorithms/111MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [C++](./algorithms/257BinaryTreePaths/BinaryTreePaths.cpp)|Easy|
